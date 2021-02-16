@@ -21,4 +21,4 @@ How to run the application:
 `runApp()`
 
 Details on application use can be found at:
-[https://people.uic.edu/pkolak3/project1](https://pkolak3.people.uic.edu/project1.html "https://pkolak3.people.uic.edu/project1.html")
+[https://pkolak3.people.uic.edu/project1.html](https://pkolak3.people.uic.edu/project1.html "https://pkolak3.people.uic.edu/project1.html")
